@@ -24,3 +24,4 @@ A Bit About Me
 	•	🧠 Enjoy understanding how algorithms and intelligent systems work
 	•	🧩 Love solving problems and building simple, useful tools
 	•	🎯 Working toward becoming a skilled ML engineer
+
