@@ -1,8 +1,11 @@
 Hey there 👋
 
 I’m Ahmet, a software engineering student based in Cyprus.
+
 I’m interested in Machine Learning, AI, and core computer science topics.
+
 In my free time, I focus on improving myself through projects, studying algorithms, and learning new technologies.
+
 This is a fresh profile where I’ll be sharing small projects, experiments, and things I’m currently working on. Everything here is built from scratch as part of my learning journey.
 
 ----------------------------------------------------------------------------------------------------------------------------
